@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        
+        android:icon="@drawable/ic_pending"
+        android:title="@string/label_1"/>
+    <item
+        android:id="@+id/page_2"
+
+        android:icon="@drawable/ic_ongoing"
+        android:title="@string/label_2"/>
+    <item
+        android:id="@+id/page_5"
+
+        android:icon="@drawable/ic_complete"
+        android:title="@string/label_5"/>
+
+    <item
+        android:id="@+id/page_3"
+
+        android:icon="@drawable/ic_earning"
+        android:title="@string/label_3"/>
+    <item
+        android:id="@+id/page_4"
+
+        android:icon="@drawable/ic_partnerprofile"
+        android:title="@string/string_label_4"/>
+
+</menu>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Partner</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgrot">Forgot Password!</string>
+
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="code">Code</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="what_work_you_do">What work you do</string>
+    <string name="search">Search..</string>
+    <string name="cuntinue">Continue</string>
+    <string name="label_1">New</string>
+    <string name="label_2">Ongoing</string>
+    <string name="label_3">Credit</string>
+    <string name="string_label_4">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_record">No Record</string>
+    <string name="accept">Accept</string>
+    <string name="customer_location">Customer Location</string>
+    <string name="see_on_map">See on Map</string>
+    <string name="call_customer">Call Customer</string>
+    <string name="complete">Complete</string>
+    <string name="select_setvice">Select service</string>
+    <string name="listaddon">List Addon</string>
+    <string name="api_key">************************************</string>
+    <string name="submit">Submit</string>
+    <string name="label_5">Complete</string>
+
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="transections">Transation</string>
+    <string name="logout">Logout</string>
+    <string name="logoutmessege">"Are you sure you want to logout "</string>
+    <string name="update">Update</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/payout"
+        android:icon="@drawable/ic_payout_top"
+        app:showAsAction="always"
+        android:title="payout" />
+    <item
+        android:id="@+id/payouttra"
+        android:icon="@drawable/ic_payout_list"
+        app:showAsAction="always"
+        android:title="payout" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"
+        app:showAsAction="always"
+        android:title="@string/logout" />
+
+</menu>
